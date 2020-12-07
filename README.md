@@ -22,7 +22,7 @@ some description!
 
 #### And more ####
 
-##### and now in the right branche #####
+### and now in the right branche and a change of style ###
 >>>>>>> style
 >>>>>>> Stashed changes
 >>>>>>> style
